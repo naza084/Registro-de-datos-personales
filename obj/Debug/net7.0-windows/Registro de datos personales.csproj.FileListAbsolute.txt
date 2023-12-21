@@ -1,0 +1,20 @@
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\bin\Debug\net7.0-windows\Registro de datos personales.exe
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\bin\Debug\net7.0-windows\Registro de datos personales.deps.json
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\bin\Debug\net7.0-windows\Registro de datos personales.runtimeconfig.json
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\bin\Debug\net7.0-windows\Registro de datos personales.dll
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\bin\Debug\net7.0-windows\Registro de datos personales.pdb
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\Registro de datos personales_MarkupCompile.cache
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\Registro de datos personales.g.resources
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\Registro de datos personales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\Registro de datos personales.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\Registro de datos personales.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\Registro de datos personales.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\Registro de datos personales.dll
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\refint\Registro de datos personales.dll
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\Registro de datos personales.pdb
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\Registro de datos personales.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\ref\Registro de datos personales.dll
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\obj\Debug\net7.0-windows\Registro de datos personales_MarkupCompile.lref

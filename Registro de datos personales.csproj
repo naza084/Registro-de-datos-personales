@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Registro_de_datos_personales</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Cómo Enamorar Siendo Un Idiota__ Iguro X Male!reader.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Cómo Enamorar Siendo Un Idiota__ Iguro X Male!reader.gif" />
+  </ItemGroup>
+
+</Project>
