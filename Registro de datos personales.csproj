@@ -9,11 +9,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Cómo Enamorar Siendo Un Idiota__ Iguro X Male!reader.gif" />
+    <None Remove="Peces.gif" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Cómo Enamorar Siendo Un Idiota__ Iguro X Male!reader.gif" />
+    <Resource Include="Peces.gif" />
   </ItemGroup>
 
 </Project>
