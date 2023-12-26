@@ -50,7 +50,7 @@
 
         <!--Imagen de fondo-->
         <Grid.Background>
-            <ImageBrush ImageSource="/Cómo Enamorar Siendo Un Idiota__ Iguro X Male!reader.gif" TileMode="None"/>
+            <ImageBrush ImageSource="Peces.gif" TileMode="None"/>
         </Grid.Background>
     </Grid>
 </Window>
