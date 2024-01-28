@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Registro_de_datos_personales
-build_property.ProjectDir = C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\
+build_property.ProjectDir = C:\Users\PC\OneDrive\Programacion\Lenguajes\C#\WPF\Ejercicios\Registro de datos personales\Registro de datos personales\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

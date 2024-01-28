@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Registro de datos personales")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2712770c707dbbc08e50a48682419aaf1cb8d4dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Registro de datos personales")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Registro de datos personales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

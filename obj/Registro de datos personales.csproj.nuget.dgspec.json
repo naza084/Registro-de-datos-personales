@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Programacion\\C#\\WPF\\Ejercicios\\Registro de datos personales\\Registro de datos personales\\Registro de datos personales.csproj": {}
+    "C:\\Users\\PC\\OneDrive\\Programacion\\Lenguajes\\C#\\WPF\\Ejercicios\\Registro de datos personales\\Registro de datos personales\\Registro de datos personales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Programacion\\C#\\WPF\\Ejercicios\\Registro de datos personales\\Registro de datos personales\\Registro de datos personales.csproj": {
+    "C:\\Users\\PC\\OneDrive\\Programacion\\Lenguajes\\C#\\WPF\\Ejercicios\\Registro de datos personales\\Registro de datos personales\\Registro de datos personales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Programacion\\C#\\WPF\\Ejercicios\\Registro de datos personales\\Registro de datos personales\\Registro de datos personales.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Programacion\\Lenguajes\\C#\\WPF\\Ejercicios\\Registro de datos personales\\Registro de datos personales\\Registro de datos personales.csproj",
         "projectName": "Registro de datos personales",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Programacion\\C#\\WPF\\Ejercicios\\Registro de datos personales\\Registro de datos personales\\Registro de datos personales.csproj",
+        "projectPath": "C:\\Users\\PC\\OneDrive\\Programacion\\Lenguajes\\C#\\WPF\\Ejercicios\\Registro de datos personales\\Registro de datos personales\\Registro de datos personales.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Programacion\\C#\\WPF\\Ejercicios\\Registro de datos personales\\Registro de datos personales\\obj\\",
+        "outputPath": "C:\\Users\\PC\\OneDrive\\Programacion\\Lenguajes\\C#\\WPF\\Ejercicios\\Registro de datos personales\\Registro de datos personales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
